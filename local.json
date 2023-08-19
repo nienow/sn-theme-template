@@ -1,0 +1,15 @@
+{
+  "identifier": "dev.randombits.theme-template.local",
+  "name": "Theme Template (local)",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "description": "Theme template for Standard Notes (local)",
+  "version": "0.0.1",
+  "url": "http://localhost:8080/theme.css",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#0000ff",
+    "foreground_color": "#00ff00",
+    "border_color": "#ff0000"
+  }
+}
