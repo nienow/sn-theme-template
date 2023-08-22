@@ -1,20 +1,20 @@
 :root {
-    --background: #eee;
-    --secondary-background: #ddd;
-    --border-color: #bbb;
-    --current-line: #ccc;
-    --foreground: #333;
-    --comment: #777;
+    --background: #222222;
+    --secondary-background: #333;
+    --border-color: #777;
+    --current-line: #444;
+    --foreground: #ccc;
+    --comment: #555;
     --icon: #777;
     --icon-contrast: #555;
-    --tint-1: #777;
-    --tint-2: #777;
-    --tint-3: #777;
-    --tint-4: #777;
-    --tint-5: #777;
-    --tint-6: #777;
+    --tint-1: #995555;
+    --tint-2: #3f7632;
+    --tint-3: #3c716c;
+    --tint-4: #43577f;
+    --tint-5: #4f4872;
+    --tint-6: #784574;
     --danger: #ff5555;
-    --warning: #ffb86c;
+    --warning: #e57d10;
     --success: #18b83d;
 
     --sn-stylekit-accessory-tint-color-1: var(--tint-1);
@@ -61,13 +61,6 @@
     --sn-desktop-titlebar-ui-hover-color: var(--highlight-color);
     --sn-stylekit-scrollbar-track-border-color: var(--comment);
     --sn-stylekit-scrollbar-thumb-color: var(--sn-stylekit-info-color);
-    --sn-stylekit-grey-5: var(--highlight-color);
-    --sn-stylekit-grey-4-opacity-variant: var(--current-line);
 
-    --sn-stylekit-passive-color-4: var(--foreground);
-    --sn-stylekit-passive-color-4-opacity-variant: var(--sn-stylekit-contrast-foreground-color);
-    --sn-stylekit-passive-color-3: var(--foreground);
-    --sn-stylekit-passive-color-5: var(--foreground);
-
-    --navigation-item-selected-background-color:var(--sn-stylekit-secondary-contrast-background-color);
+    --navigation-item-selected-background-color: var(--sn-stylekit-secondary-contrast-background-color);
 }

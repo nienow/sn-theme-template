@@ -7,13 +7,9 @@
   "version": "0.1.0",
   "url": "https://nienow.github.io/sn-theme-template/theme.css",
   "download_url": "https://nienow.github.io/sn-theme-template/latest.zip",
-  "marketing_url": "https://nienow.github.io/sn-theme-template/",
   "latest_url": "https://nienow.github.io/sn-theme-template/ext.json",
   "dock_icon": {
     "type": "circle",
-    "background_color": "#0000ff",
-    "foreground_color": "#00ff00",
-    "border_color": "#ff0000"
-  },
-  "isDark": true
+    "background_color": "#995555"
+  }
 }
